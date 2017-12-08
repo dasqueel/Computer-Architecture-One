@@ -1,0 +1,52 @@
+#inputfile
+00000001 # initialize
+00000010 # SET register
+00000000 # register #0
+00000100 # SAVE next
+01001000 # H
+00000010 # SET register
+00000001 # register #1
+00000100 # SAVE next
+01100101 # e
+00000010 # SET register
+00000010 # register #2
+00000100 # SAVE next
+01101100 # l
+00000010 # SET register
+00000011 # register #3
+00000100 # SAVE next
+01101100 # l
+00000010 # SET register
+00000100 # register #4
+00000100 # SAVE next
+01101111 # o
+00000010 # SET register
+00000101 # register #5
+00000100 # SAVE next
+00100000 # ' '
+00000010 # SET register
+00000110 # register #6
+00000100 # SAVE next
+01010111 # W
+00000010 # SET register
+00000111 # register #7
+00000100 # SAVE next
+01101111 # o
+00000010 # SET register
+00001000 # register #8
+00000100 # SAVE next
+01110010 # r
+00000010 # SET register
+00001001 # register #9
+00000100 # SAVE next
+01101100 # l
+00000010 # SET register
+00001010 # register #10
+00000100 # SAVE next
+01100100 # d
+00000010 # SET register
+00001011 # register #11
+00000100 # SAVE next
+00100001 # !
+
+00001110 # PRA
